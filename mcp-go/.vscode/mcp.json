@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "mcp-go": {
+      "type": "stdio",
+      "command": "/Users/apple/Desktop/mcp/mcp-go/mcp-server",
+      "args": []
+    }
+  },
+  "inputs": []
+}
